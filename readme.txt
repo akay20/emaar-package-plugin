@@ -3,7 +3,7 @@ Contributors: SOW
 Donate link: https://example.com/
 Tags: tag1, tag2
 Requires at least: 4.7
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 Requires PHP: 7.0
 License: Apache
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
