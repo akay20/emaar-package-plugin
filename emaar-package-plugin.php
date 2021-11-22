@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Emaar Package Plugin
  * Description: Emaar Package Plugin
- * Version:     1.0.1
+ * Version:     1.0.2
  * Author:      Akshay
  */
 
